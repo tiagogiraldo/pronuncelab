@@ -1,0 +1,72 @@
+{
+  "diphthongs": [
+    {
+      "id": 1,
+      "symbol": "/aɪ/",
+      "name": "Price",
+      "description": "Starts with 'ah' and glides to 'ee'",
+      "commonSpellings": ["i", "igh", "y", "ie"],
+      "examples": ["crime", "light", "byte", "why", "time", "high"]
+    },
+    {
+      "id": 2,
+      "symbol": "/eɪ/",
+      "name": "Face",
+      "description": "Starts with 'eh' and glides to 'ee'",
+      "commonSpellings": ["ea", "ey", "ay", "ai", "a"],
+      "examples": ["break", "prey", "pray", "braid", "ache", "day"]
+    },
+    {
+      "id": 3,
+      "symbol": "/əʊ/",
+      "name": "Goat",
+      "description": "Starts with 'uh' and glides to 'oo'",
+      "commonSpellings": ["ow", "oa", "ough", "o"],
+      "examples": ["slow", "moan", "dough", "go", "home", "show"]
+    },
+    {
+      "id": 4,
+      "symbol": "/aʊ/",
+      "name": "Mouth",
+      "description": "Starts with 'ah' and glides to 'oo'",
+      "commonSpellings": ["ou", "ow"],
+      "examples": ["hound", "crown", "town", "house", "down", "loud"]
+    },
+    {
+      "id": 5,
+      "symbol": "/eə/",
+      "name": "Square",
+      "description": "Starts with 'eh' and glides to 'uh'",
+      "commonSpellings": ["ai", "ea", "are"],
+      "examples": ["lair", "bear", "air", "hair", "care", "there"]
+    },
+    {
+      "id": 6,
+      "symbol": "/ɪə/",
+      "name": "Near",
+      "description": "Starts with 'ih' and glides to 'uh'",
+      "commonSpellings": ["ee", "ie", "ea", "eer"],
+      "examples": ["jeer", "pier", "near", "deer", "here", "beer"]
+    },
+    {
+      "id": 7,
+      "symbol": "/ɔɪ/",
+      "name": "Choice",
+      "description": "Starts with 'aw' and glides to 'ee'",
+      "commonSpellings": ["oy", "oi"],
+      "examples": ["boy", "oil", "toy", "coin", "voice", "joy"]
+    },
+    {
+      "id": 8,
+      "symbol": "/ʊə/",
+      "name": "Cure",
+      "description": "Starts with 'oo' and glides to 'uh'",
+      "commonSpellings": ["u", "ure", "our"],
+      "examples": ["pure", "sure", "tour", "poor", "cure", "endure"]
+    }
+  ],
+  "metadata": {
+    "totalCount": 8,
+    "description": "The 8 standard English diphthongs with phonetic symbols, common spellings, and example words"
+  }
+}
